@@ -40,38 +40,37 @@ Creating a Blog in Django offers an interactive UI design where users can see wh
 
 ## Docker
 
-
-1.Download and install [Docker Community Edition](https://www.docker.com/).
+1. Download and install [Docker Community Edition](https://www.docker.com/).
 
 2. Once you've installed Docker Community Edition, click the Docker icon in Launchpad and start the engine.
 
-1. Clone the project repository from GitHub:
+3. Clone the project repository from GitHub:
 
    ```bash
    git clone https://github.com/n1ranam/Blog-Post-Management.git
    ```
    
-2.Open the project in Visual Studio Code
+4.Open the project in Visual Studio Code
 
-3.Navigate to the project directory:
+5.Navigate to the project directory:
 
    ```bash
    cd blogmanagement
    ```
-4. Open terminal and run:
+6. Open terminal and run:
 
 ```sh
 # Build or rebuild services
-Docker-compose build
+docker-compose build
 
 ```
 ```sh
 # Create and start containers
-Docker-compose up
+docker-compose up
 
 ```
 
-5. Open your web browser and visit (http://0.0.0.0:8000/) to access the Django Blog project.
+7. Open your web browser and visit (http://0.0.0.0:8000/) to access the Django Blog project.
 
 That's it! You now have a running Docker container.
 
