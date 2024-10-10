@@ -18,12 +18,17 @@ Creating a Blog in Django offers an interactive UI design where users can see wh
 
 <br>
 <br>
+
+Sigup Page
 <img width="1147" alt="image" src="https://github.com/user-attachments/assets/2976323c-ba6f-4ffe-b3e3-b949e4639b92">
 
+Login Page
 <img width="1151" alt="image" src="https://github.com/user-attachments/assets/41a33bbc-eca7-41ce-943c-832c34400e9e">
 
+Blog page
 <img width="1157" alt="image" src="https://github.com/user-attachments/assets/e2c658f9-3783-4170-ad93-ad0392e4c5b1">
 
+Blog Details
 <img width="1151" alt="image" src="https://github.com/user-attachments/assets/36539c47-e4c3-4634-affd-913fcbf71274">
 
 
