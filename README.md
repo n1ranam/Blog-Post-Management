@@ -117,7 +117,7 @@ pip install Django
    - On Windows:
 
      ```bash
-     .\blogenv\Scripts\activate
+     \blogenv\Scripts\activate
      ```
 
    - On macOS and Linux:
