@@ -1,4 +1,4 @@
-<div align="center">
+
 
   <h1 align="center">Blog Post Management</h1>
 
@@ -6,7 +6,7 @@
 A Blog application in Django contains all the features of a blog site, such as login/register into the system, adding blog posts with title, description, and image, as well as editing or deleting the blog post.
 
 
-</div>
+
 
 <br />
 
