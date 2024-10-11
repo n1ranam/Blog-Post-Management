@@ -100,19 +100,13 @@ pip install Django
    git clone https://github.com/n1ranam/Blog-Post-Management.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd blogmanagement
-   ```
-
-3. Create a virtual environment (optional but recommended):
+2. Create a virtual environment (optional but recommended):
 
    ```bash
    python -m venv blogenv
    ```
 
-4. Activate the virtual environment:
+3. Activate the virtual environment:
 
    - On Windows:
 
@@ -126,19 +120,19 @@ pip install Django
      source blogenv/bin/activate
      ```
 
-5. Install project dependencies:
+4. Install project dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-6. Run the development server:
+5. Run the development server:
 
    ```bash
    python3 manage.py runserver
    ```
 
-7. Open your web browser and visit [http://localhost:8000/](http://localhost:8000/) to access the Django Blog project.
+6. Open your web browser and visit [http://localhost:8000/](http://localhost:8000/) to access the Django Blog project.
 
 ## 🛠 Built With
 
